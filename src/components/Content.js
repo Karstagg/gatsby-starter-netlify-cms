@@ -1,5 +1,5 @@
 import React from 'react'
-import 'all.sass'
+import './all.sass'
 import PropTypes from 'prop-types'
 
 export const HTMLContent = ({ content, className }) => (
