@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: 'No'
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Matt and Ariel's travel planner
+image: /img/tokashikishima.jpg
+heading: A dumb site for planning adventures
+subheading: 'Pretty self explanatory '
 mainpitch:
   title: Why Kaldi
   description: >
