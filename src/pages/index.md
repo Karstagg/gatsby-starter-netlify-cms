@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Matt and Ariel's travel planner
+title: Matt and Ariel's Super Fun Travel Site
 image: /img/tokashikishima.jpg
 heading: A dumb site for planning adventures
-subheading: Pretty self explanatory
+subheading: Pretty fucking self explanatory
 mainpitch:
   title: hrm
   description: hrm
